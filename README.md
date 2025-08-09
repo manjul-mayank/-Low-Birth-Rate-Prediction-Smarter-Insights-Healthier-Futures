@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner.png" alt="Low Birth Rate Prediction Banner" width="800">
+  <img src="LBW Prediction Banner .png" alt="Low Birth Rate Prediction Banner" width="800">
 </p>
 
 <h1 align="center">🍼 Low Birth Rate Prediction – Smarter Insights, Healthier Futures</h1>
@@ -78,3 +78,18 @@ pip install -r requirements.txt
 # Run the notebook
 jupyter notebook low_birth_rate_prediction_suggestion.ipynb
 ```
+## 💡 Real-World Applications
+- 🏥 Public Health – Early risk detection in maternal programs
+
+- 👩‍⚕️ Healthcare Support – Decision aid for practitioners
+
+- 🎓 Education – Awareness for maternal and child health
+## 🤝 Contributing
+Contributions are welcome! If you have ideas to improve model accuracy, add features, or make visualizations cooler, fork the repo and submit a PR.
+<p align="center"> <b>⭐ If you find this project useful, please star the repo — it helps others discover it!</b> </p>
+
+## 👩‍💻 Author: Manjul Mayank
+* 📬 Contact: manjul_2303res27iitp.ac.in
+* 🌟 Let’s predict risks before they become realities!
+
+
